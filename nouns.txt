@@ -1,0 +1,10 @@
+cat قطة
+place مكان
+how كيف
+where اين
+why لماذا
+no لا
+yes نعم
+address عنوان
+dog كلب
+plane طائرة
